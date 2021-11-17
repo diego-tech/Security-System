@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select">
+        <item>Ordenar por:</item>
+        <item>Fecha</item>
+        <item>Encendido</item>
+        <item>Apagado</item>
+        <item>Alerta</item>
+    </string-array>
+</resources>

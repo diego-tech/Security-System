@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SecuritySystem</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Biometric Text -->
+    <string name="biometric_error_hw_unavailable">Los sensores biométricos no están disponibles</string>
+    <string name="biometric_error_no_hardware">El dispositivo no tiene sensor de huellas dactilares</string>
+    <string name="biometric_success">Puede utilizar el sensor de huellas dactilares para iniciar sesión</string>
+    <string name="biometric_error_none_enrolled_title">No tienes ninguna huella configurada. </string>
+    <string name="biometric_error_none_enrolled">¿Desea configurar alguna?</string>
+    <string name="yes">Sí</string>
+    <string name="cancel">Cancelar</string>
+    <string name="login">Acceder</string>
+    <string name="login_access_text">Utilice la Huella para iniciar sesión</string>
+    <string name="not_use_app">No podrá utilizar esta aplicación</string>
+
+    <!-- Settings Text -->
+    <string name="settingsTitle">Ajustes</string>
+    <string name="ipConfig">Configuración IP</string>
+    <string name="text255">255</string>
+    <string name="dot">.</string>
+    <string name="change_fingerprint">Cambiar Huella</string>
+    <string name="configFingerPrint">Ir a Ajustes</string>
+    <string name="configIp">Configurar</string>
+
+    <!-- Fragment Log Text -->
+    <string name="historial">Historial</string>
+
+    <!-- Fragment Status Text -->
+    <string name="changeStatusTitle">Cambiar Estado</string>
+    <string name="powerOnSystemText">Encender Sistema</string>
+    <string name="powerOffSystemText">Apagar Sistema</string>
+    <string name="statusTextTitle">Status</string>
+    <string name="onText">Encendido</string>
+    <string name="offText">Apagado</string>
+    <string name="loadText">Cargando</string>
+    <string name="alertText">Alerta Intruso</string>
+    <string name="todo">TODO</string>
+
+</resources>
